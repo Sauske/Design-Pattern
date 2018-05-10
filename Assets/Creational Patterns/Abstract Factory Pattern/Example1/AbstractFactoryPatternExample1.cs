@@ -68,14 +68,14 @@ namespace AbstractFactoryPatternExample1
     }
 
     /// <summary>
-    /// The 'AbstractProductA' abstract class
+    /// The 'AbstractProductA' abstract class  食草动物
     /// </summary>
     abstract class Herbivore
     {
     }
 
     /// <summary>
-    /// The 'AbstractProductB' abstract class
+    /// The 'AbstractProductB' abstract class 食肉动物
     /// </summary>
     abstract class Carnivore
     {
@@ -83,14 +83,14 @@ namespace AbstractFactoryPatternExample1
     }
 
     /// <summary>
-    /// The 'ProductA1' class
+    /// The 'ProductA1' class  羚羊
     /// </summary>
     class Wildebeest : Herbivore
     {
     }
 
     /// <summary>
-    /// The 'ProductB1' class
+    /// The 'ProductB1' class  狮子
     /// </summary>
     class Lion : Carnivore
     {
@@ -102,14 +102,14 @@ namespace AbstractFactoryPatternExample1
     }
 
     /// <summary>
-    /// The 'ProductA2' class
+    /// The 'ProductA2' class  野牛
     /// </summary>
     class Bison : Herbivore
     {
     }
 
     /// <summary>
-    /// The 'ProductB2' class
+    /// The 'ProductB2' class  狼
     /// </summary>
     class Wolf : Carnivore
     {

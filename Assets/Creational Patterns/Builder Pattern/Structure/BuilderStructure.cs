@@ -8,7 +8,7 @@ using System.Collections.Generic;
 
 public class BuilderStructure : MonoBehaviour
 {
-	void Start ( )
+	void Start ()
     {
         // Create director and builders
         Director director = new Director();

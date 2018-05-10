@@ -16,6 +16,7 @@ namespace BuilderPatternExample2
             engineer.MakeRobot();
 
             Robot firstRobot = engineer.GetRobot();
+
             Debug.Log("First Robot built");
             Debug.Log(firstRobot.ToStringEX());
         }
