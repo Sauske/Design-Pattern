@@ -22,6 +22,7 @@ namespace CompositePatternExample2
             industrialMusic.Add(new Song("headhunter", "front 242", 1988));
             // see: here we are adding a group into a group and build up the hierarchy!!!!
             industrialMusic.Add(dubstepMusic);
+
             dubstepMusic.Add(new Song("Centipede", "Knife Party", 2012));
             dubstepMusic.Add(new Song("Tetris", "doctor P", 2011));
 

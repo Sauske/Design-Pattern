@@ -30,7 +30,6 @@ public class CompositeStructure : MonoBehaviour
 
         // Recursively display tree
         root.Display(1);
-
     }
 }
 

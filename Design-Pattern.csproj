@@ -373,6 +373,9 @@
     <Compile Include="Assets\Game Programming Patterns\Object Pool Pattern\Example\Script\Core\PoolObject.cs" />
     <Compile Include="Assets\Game Programming Patterns\Object Pool Pattern\Example\Script\Example\ObjectPoolExample.cs" />
     <Compile Include="Assets\Game Programming Patterns\Object Pool Pattern\Example\Script\Example\PoolObjectBehaviour.cs" />
+    <Compile Include="Assets\Game Programming Patterns\Object Pool Pattern2\Example\ObjectPoolManager.cs" />
+    <Compile Include="Assets\Game Programming Patterns\Object Pool Pattern2\Example\ObjectPoolPatternExample.cs" />
+    <Compile Include="Assets\Game Programming Patterns\Object Pool Pattern2\Example\ObjectToPool.cs" />
     <Compile Include="Assets\Game Programming Patterns\Service Locator Pattern\Example\ServiceLocatorPatternExample.cs" />
     <Compile Include="Assets\Game Programming Patterns\SubclassSandbox Pattern\Example\FlashSpeed.cs" />
     <Compile Include="Assets\Game Programming Patterns\SubclassSandbox Pattern\Example\GroundDive.cs" />
